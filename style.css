@@ -1,0 +1,25 @@
+img {
+    width: 500px;
+}
+
+.main_img {
+    width: 900px;
+}
+
+.small_img {
+    width: 100px;
+    float: left;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+}
+
+.full_post {
+    background-color: rgba(0, 255, 255, .2);
+}
+
+.full_post::first-letter {
+    font-size: 64px;;
+}
